@@ -1,3 +1,4 @@
 [submodule "sekrip"]
 	path = sekrip
 	url = git@github.com:mTakku/bljr-git-submodule.git
+	branch = release
